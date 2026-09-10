@@ -16,7 +16,3 @@ I work with agents to solve problems.
 
 - 🪵 **[Chop](https://github.com/alberto-castano/chop)** — A Rust TUI for cleaning up Git worktrees, with a tiny ASCII chopping animation.
 - 🍺 **[Homebrew tap](https://github.com/alberto-castano/homebrew-tap)** — Install my command-line tools with Homebrew.
-
-```sh
-brew install alberto-castano/tap/chop
-```
